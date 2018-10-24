@@ -1,5 +1,5 @@
 token= NTA0NzM1OTQ1ODYyNTQ1NDI4.DrJX4w.Utd6dnAjT6KjQqVD4mx_1fgNl-Q
-owner= 478028399839805471 
+owner= 463173266970902539 
 prefix= me
 game= Type mehelp
 stayinchannel=true
