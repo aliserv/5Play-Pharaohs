@@ -1,6 +1,6 @@
-token= NTAzNDAwMTQ5MzA5OTgwNjcz.Dq17rw.JbnUzq-tIr-CsGEAjzj0AJj0Q9Y
-owner= 503324987898200074 
-prefix= 5
-game= Type 5help
+token= NTA0NzM1OTQ1ODYyNTQ1NDI4.DrJX4w.Utd6dnAjT6KjQqVD4mx_1fgNl-Q
+owner= 478028399839805471 
+prefix= me
+game= Type mehelp
 stayinchannel=true
 songinstatus=false 
