@@ -1,6 +1,6 @@
-token= NTA0NzM1OTQ1ODYyNTQ1NDI4.DrJX4w.Utd6dnAjT6KjQqVD4mx_1fgNl-Q
-owner= 463173266970902539 
-prefix= me
-game= Type mehelp
+token= NTExNjE5MzI4MDE0MTU1Nzc3.Dsticw.FYplMwo0J6rGkkPpn-XG3uSHIk0
+owner= 478544778741678090 
+prefix= +
+game= Type +help
 stayinchannel=true
 songinstatus=false 
